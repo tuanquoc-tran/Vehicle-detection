@@ -22,3 +22,10 @@ This Final project using yolov3 - tiny architecture with opencv to detect vehicl
 ![image](https://user-images.githubusercontent.com/51257497/99928589-54fd1980-2d7c-11eb-89ca-b8c8efdd8846.png)
 ![image](https://user-images.githubusercontent.com/51257497/99928593-5b8b9100-2d7c-11eb-86ae-b41a597a0345.png)
 
+## Author 
+### Leturer
+PhD, Duc Bui Ha - Lecturer of Faculty of Mechanical Engineering (FME), Ho Chi Minh City University of Technology and Education, Vietnam.
+### Students
+Tuan Tran - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
+Tuan Nguyen - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
+Bao Nguyen - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
