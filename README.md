@@ -1,9 +1,8 @@
 # Vehicle Detection
-##Introduction
-
+## Introduction
 This Final project using yolov3 - tiny architecture with opencv to detect vehicle in Vietnam's traffic
 
-##Description
+## Description
 1. Data 
 - Data for this project were collected from cameras in Ho Chi Minh City. Number of photo were 4000 including 1200 night photos and 2800 daytime photos 
 - Identifiers was common vehicle in Vietnam. 
