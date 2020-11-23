@@ -26,6 +26,6 @@ This Final project using yolov3 - tiny architecture with opencv to detect vehicl
 ### Leturer
 PhD, Duc Bui Ha - Lecturer of Faculty of Mechanical Engineering (FME), Ho Chi Minh City University of Technology and Education, Vietnam.
 ### Students
-Tuan Tran - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
-Tuan Nguyen - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
-Bao Nguyen - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
++ Tuan Tran - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
++ Tuan Nguyen - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
++ Bao Nguyen - Mechatronics student, Ho Chi Minh City University of Technology and Education, Vietnam.
