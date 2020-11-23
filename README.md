@@ -15,3 +15,9 @@ This Final project using yolov3 - tiny architecture with opencv to detect vehicl
 - Weights were evaluated and executed on Jetson nano board
 - I used a dnn function of opnecv library to execuate on GPU of jetson nano board. When using yolov3 the speed is achieved 8FPS, also the speed of yolov3-tiny was 22 FPS
 
+![image](https://user-images.githubusercontent.com/51257497/99928366-5bd75c80-2d7b-11eb-972c-7d7072b00406.png)
+![image](https://user-images.githubusercontent.com/51257497/99928379-6db8ff80-2d7b-11eb-856f-d69ed3b9418e.png)
+![image](https://user-images.githubusercontent.com/51257497/99928388-77dafe00-2d7b-11eb-8789-729802ad828b.png)
+![image](https://user-images.githubusercontent.com/51257497/99928395-7e697580-2d7b-11eb-8a3f-44b8cadec519.png)
+![image](https://user-images.githubusercontent.com/51257497/99928399-86291a00-2d7b-11eb-929a-3f4c34c7cf60.png)
+![image](https://user-images.githubusercontent.com/51257497/99928416-9214dc00-2d7b-11eb-8410-022bf398e151.png)
